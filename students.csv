@@ -1,0 +1,12 @@
+student_id,name,course
+1,ABC,Computer Science
+2,KLM,Electrical
+3,DEF,Mechanical
+4,XYZ,Civil
+5,PQR,DBMS
+101,Alice,Computer Science
+102,Bob,Electrical
+201,Alice,Computer Science
+202,Bob,Electrical
+203,Charlie,Mechanical
+204,Diana,Civil
